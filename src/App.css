@@ -38,6 +38,9 @@ ul {
 
 .card img {
   width: 175px;
+  height: 175px;
+  float:left;
+  object-fit: cover;
   border-radius: 25px;
 }
 
