@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/memory-game/static/css/main.aad1aedc.css",
+    "main.js": "/memory-game/static/js/main.fb4d7542.js",
+    "static/js/787.69b12325.chunk.js": "/memory-game/static/js/787.69b12325.chunk.js",
+    "static/media/bigboo.webp": "/memory-game/static/media/bigboo.5a5f01c6d3776c062e2e.webp",
+    "static/media/mariaruiz.webp": "/memory-game/static/media/mariaruiz.2be0d99bd881b4fc31de.webp",
+    "static/media/tashajefferson.webp": "/memory-game/static/media/tashajefferson.3d50e7f6e6403c55a525.webp",
+    "static/media/suzannewarren.webp": "/memory-game/static/media/suzannewarren.ad10d37f82618135a40f.webp",
+    "static/media/sophiaburset.jpg": "/memory-game/static/media/sophiaburset.7c779f89f20314d7f05a.jpg",
+    "static/media/nickynichols.jpg": "/memory-game/static/media/nickynichols.6761a56394dd30f4608f.jpg",
+    "static/media/galinareznikov.webp": "/memory-game/static/media/galinareznikov.c70e815482a946ba493a.webp",
+    "static/media/blancaflores.webp": "/memory-game/static/media/blancaflores.8b9cc40b832a72749e0d.webp",
+    "static/media/alexvause.jpeg": "/memory-game/static/media/alexvause.814d286a16a82b48c8d9.jpeg",
+    "static/media/tiffanydoggett.webp": "/memory-game/static/media/tiffanydoggett.04cd91819736624467b6.webp",
+    "static/media/piperchapman.jpg": "/memory-game/static/media/piperchapman.d0329be5fceb2078f7c1.jpg",
+    "index.html": "/memory-game/index.html",
+    "main.aad1aedc.css.map": "/memory-game/static/css/main.aad1aedc.css.map",
+    "main.fb4d7542.js.map": "/memory-game/static/js/main.fb4d7542.js.map",
+    "787.69b12325.chunk.js.map": "/memory-game/static/js/787.69b12325.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aad1aedc.css",
+    "static/js/main.fb4d7542.js"
+  ]
+}
