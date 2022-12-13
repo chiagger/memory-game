@@ -4,7 +4,6 @@ import Cards from './components/cards';
 function App() {
   return (
     <div className="App">
-      <div className="header">Memory is the new Black</div>
       <div className="content">
         <Cards></Cards>
       </div>
