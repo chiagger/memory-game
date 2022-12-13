@@ -6,7 +6,7 @@ const Card = (props) => {
         <ul>
             {cardsArray.map((card) => {
                 return (
-                    <div className="card">
+                    <div className="card" key={card.key}>
                         <div className="img">
                             <img src={card.img} alt="this character's pic"></img>
                         </div>
